@@ -4,7 +4,7 @@
 </div>
 <br>
 <p align="center">Projeto realizado em HTML, CSS e JavaScript, com o intuito de utilizar alguns métodos de array, para uma loja fictícia de livros (Alura Book). Fazendo a exibição dos livros, vindo de uma API, simulando um back-end e a filtragrem desses livros nas opções existentes</p>
-<p  align="center"><a href="https://guilhermeonrails.github.io/casadocodigo/livros.json" target="_blank">Endpoint com os dados do livro<a/></p>
+<p  align="center"><a href="https://guilhermeonrails.github.io/casadocodigo/livros.json" target="_blank">Endpoint com os dados dos livros<a/></p>
 <p  align="center"><a href="https://barbourdev.github.io/metodosArray/" target="_blank">Veja o projeto hospedado, clique aqui!<a/></p>
   
 ##
